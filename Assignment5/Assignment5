@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assingmet5</title>
+</head>
+<body>
+    <h1>
+        IRONMAN
+    </h1>
+    <p>
+        Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics. The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby. The character made his first appearance in Tales of Suspense #39 (cover dated March 1963), and received his own title in Iron Man #1 (May 1968).
+    </p>
+    <br/>
+    <h1>Image of Ironman</h1>
+    <img src="http://thumbpress.com/wp-content/uploads/2013/05/Iron-Man-Facts-1.jpg"></img>
+    <br/>
+    <h1>Video of Ironman</h1>
+    <iframe src="iframe width=643" height="392" src="https://www.youtube.com/embed/osSJhXruEzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" 
+    <br/>
+    <h1>Some Pictures of Ironman</h1>
+    <figure>
+        <img src="Ironman6.jpg" alt="Ironman" height="500"/>
+        <figcaption>
+            This is logo of Ironman
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="Ironman3.jpg" alt="Ironman" height="500"/>
+        <figcaption>
+            Poster of End Game
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="Ironman4.jpg" alt="Ironman" height="500"/>
+        <figcaption>
+            Some Ironman Suit Made by Tony Stark
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="Ironman5.jpg" alt="Ironman" height="500"/>
+        <figcaption>
+            Some First Suit Made By Tony
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="Ironman7.jpg" alt="Ironman" height="500"/>
+        <figcaption>
+            Ironman of End Game
+        </figcaption>
+    </figure>
+</body>
+</html>
